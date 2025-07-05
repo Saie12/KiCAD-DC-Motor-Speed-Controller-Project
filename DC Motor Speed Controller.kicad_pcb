@@ -1565,7 +1565,7 @@
 			(uuid "8ffbdecf-3b67-4180-ba88-659896f4c63d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/TerminalBlock_bornier-2_P5.08mm.wrl"
 			(offset
 				(xyz 2.539999962 0 0)
 			)
@@ -2749,7 +2749,7 @@
 		(descr "simple 2-pin terminal block, pitch 5.08mm, revamped version of bornier2")
 		(tags "terminal block bornier2")
 		(property "Reference" "J2"
-			(at -3.5 1.5 180)
+			(at -3.5 1.5 0)
 			(layer "F.SilkS")
 			(uuid "18074e14-9422-4f25-807e-f8c8852815f0")
 			(effects
@@ -2975,7 +2975,7 @@
 			(uuid "a85992cc-6ec0-4d9a-bc22-82e09001bba1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/TerminalBlock.3dshapes/TerminalBlock_bornier-2_P5.08mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/TerminalBlock_bornier-2_P5.08mm.wrl"
 			(offset
 				(xyz 2.539999962 0 0)
 			)
