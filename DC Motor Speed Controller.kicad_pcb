@@ -2730,7 +2730,7 @@
 			(uuid "7547e263-7018-49a3-bf11-ef8f93988a63")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_DIP.3dshapes/DIP-8_W7.62mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/DIP-8_W7.62mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
