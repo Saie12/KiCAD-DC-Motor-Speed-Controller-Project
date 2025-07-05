@@ -616,7 +616,7 @@
 			(uuid "bda59a3c-e1e9-4f7a-866b-baef3971334b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1035,7 +1035,7 @@
 			(uuid "db1c91cd-2a83-47d7-9b13-233566c7a21b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Radial_D8.0mm_H7.0mm_P3.50mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/C_Radial_D8.0mm_H7.0mm_P3.50mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2033,7 +2033,7 @@
 			(uuid "3179aaec-366f-44f7-a8be-65081cbc2a52")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_THT.3dshapes/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/C_Disc_D4.7mm_W2.5mm_P5.00mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
