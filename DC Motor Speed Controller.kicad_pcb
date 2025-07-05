@@ -901,7 +901,7 @@
 			(uuid "ec0acf03-bd7c-4198-a056-256cc5ebedb6")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/D_DO-41_SOD81_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1320,7 +1320,7 @@
 			(uuid "a817ffcd-9168-4921-ba83-34848fdc7784")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/D_DO-41_SOD81_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1850,7 +1850,7 @@
 			(uuid "83b0ef29-64d5-4c15-aa95-727b87b4e170")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Diode_THT.3dshapes/D_DO-41_SOD81_P10.16mm_Horizontal.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/D_DO-41_SOD81_P10.16mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
