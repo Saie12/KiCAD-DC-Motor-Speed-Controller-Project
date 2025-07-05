@@ -3385,7 +3385,7 @@
 			(uuid "22ce66c3-4216-42cb-a6e3-659393771f96")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Package_TO_SOT_THT.3dshapes/TO-220-3_Vertical.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/TO-220-3_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
