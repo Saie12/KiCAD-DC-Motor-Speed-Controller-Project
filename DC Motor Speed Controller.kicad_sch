@@ -2859,75 +2859,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 62.23 100.33 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "23aa3e7f-8277-4b25-8aa1-96f004288efa")
-		(property "Reference" "C3"
-			(at 66.04 99.0599 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "1000uF"
-			(at 63.754 109.22 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 63.1952 104.14 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 62.23 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 62.23 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6a1cb96b-5069-4ff3-b030-f58a30a979a1")
-		)
-		(pin "1"
-			(uuid "00b67aae-eafa-44c9-9f58-53b5b44de7e8")
-		)
-		(instances
-			(project "DC Motor Speed Controller"
-				(path "/f6006c76-6b8e-4b9c-acef-dbdcf88c8838"
-					(reference "C3")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:R")
 		(at 171.45 90.17 90)
 		(unit 1)
@@ -3059,6 +2990,76 @@
 			(project ""
 				(path "/f6006c76-6b8e-4b9c-acef-dbdcf88c8838"
 					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 62.23 100.33 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "46b6c738-c738-4424-9204-e61f3ca27785")
+		(property "Reference" "C3"
+			(at 66.04 99.0599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "1000uF"
+			(at 66.04 101.5999 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
+			(at 63.1952 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 62.23 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2e0777e6-d791-481e-be28-67d902b09d46")
+		)
+		(pin "2"
+			(uuid "bb84ecde-efc5-4a96-b138-2f5ca48f98ab")
+		)
+		(instances
+			(project ""
+				(path "/f6006c76-6b8e-4b9c-acef-dbdcf88c8838"
+					(reference "C3")
 					(unit 1)
 				)
 			)
