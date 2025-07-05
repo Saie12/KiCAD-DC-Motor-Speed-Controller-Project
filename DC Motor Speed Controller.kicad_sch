@@ -2700,7 +2700,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK097_Single_Horizontal_Switch"
+		(property "Footprint" "Potentiometer_THT:Potentiometer_Alps_RK163_Single_Horizontal"
 			(at 90.17 100.33 0)
 			(effects
 				(font
