@@ -2207,7 +2207,7 @@
 			(uuid "26e1950c-f842-4296-83b3-f2b997946d44")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3149,7 +3149,7 @@
 			(uuid "549b607e-f79c-49ef-8796-0c8e9dbef6e9")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3559,7 +3559,7 @@
 			(uuid "3570d22c-953b-4645-a108-75ea0762fc4d")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Resistor_THT.3dshapes/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/R_Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
