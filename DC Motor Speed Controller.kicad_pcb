@@ -2438,7 +2438,7 @@
 			(uuid "b8fcc2aa-5e44-4296-89fc-fff2e727743a")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/LED_THT.3dshapes/LED_D5.0mm.step"
+		(model "${KIPRJMOD}/Libraries/3d Models/LED_D5.0mm.step"
 			(offset
 				(xyz 0 0 0)
 			)
